@@ -1,0 +1,72 @@
+==============================================
+|     Movie 1 details                        |
+==============================================
+Movie title   : Soul 
+Director      : Pete Docter 
+Runtime       : 1h 47m  
+Genre         : Comedy
+Dimension     : 2D 
+Releasing Date: 25 December 2019
+Actors: 
+1.Poul 
+2. Allan
+ ==============================================
+|     Movie 2 details                        |
+==============================================
+Movie title   : Monster Hunter 
+Director      : Pete Docter  
+Runtime       : 1h 44m  
+Genre         : Action 
+Dimension     : 2D " 
+Releasing Date: 3 December 2020
+Actors: 
+1. Tony Jaa
+2. MC Jin;
+==============================================
+|     Movie  3 details                        
+==============================================
+Movie title   : Superstar 
+Director      : Azaan Sami Khan
+Runtime       : 2h 33m 
+Genre         : Drama
+Dimension     : 2D 
+Releasing Date: 2 April 2019
+Actors: 
+1.Mahira Khan
+2. Bilal Ashraf"
+============================================== 
+|     Movie 4 details                        |
+==============================================
+Movie title   : Shadow In The Cloud 
+Director      : Max Landis 
+Runtime       : 1h 23m  
+Genre         : Horror  
+Dimension     : 3D 
+Releasing Date: 31 December 2020
+Actors: 
+1. William
+2. Captain Reeves
+============================================== 
+|     Movie 5 details                        |
+==============================================
+Movie title   : Comedy Play 
+Director      : Jacob Chase 
+Runtime       : 1h 45m  
+Genre         : Action  
+Dimension     : 3D 
+Releasing Date: 28 October  2020
+Actors: 
+1. Sarah
+2. Oliver" 
+============================================== 
+|     Movie 6 details                        |
+==============================================
+Movie title   : Wonder Women
+Director      : Patty Jenkins 
+Runtime       : 21h 35m  
+Genre         : Action/Adventure 
+Dimension     : 3D 
+Releasing Date: 14 August 2018
+Actors: 
+1. Gal Gadot
+2. Chris Pine
